@@ -1,0 +1,492 @@
+"gid","station_name","borough","homicide_count"
+230,"Sutter Ave","Brooklyn",80
+260,"145th St","Manhattan",76
+15,"182nd St","Bronx",76
+222,"Rockaway Ave","Brooklyn",75
+61,"Mt Eden Ave","Bronx",74
+8,"167th St","Bronx",71
+11,"170th St","Bronx",71
+257,"135th St","Manhattan",70
+10,"170th St","Bronx",70
+46,"Fordham Rd","Bronx",70
+47,"Fordham Rd","Bronx",69
+224,"Saratoga Ave","Brooklyn",69
+69,"Tremont Ave","Bronx",69
+9,"167th St","Bronx",68
+13,"174th St","Bronx",68
+252,"125th St","Manhattan",67
+220,"Ralph Ave","Brooklyn",67
+210,"Nostrand Ave","Brooklyn",65
+14,"176th St","Bronx",64
+172,"Halsey St","Brooklyn",64
+233,"Utica Ave","Brooklyn",64
+256,"135th St","Manhattan",60
+267,"155th St","Manhattan",59
+136,"Chauncey St","Brooklyn",59
+179,"Junius St","Brooklyn",58
+54,"Kingsbridge Rd","Bronx",58
+221,"Rockaway Ave","Brooklyn",58
+232,"Utica Ave","Brooklyn",58
+249,"116th St","Manhattan",57
+245,"110th St","Manhattan",55
+254,"125th St","Manhattan",55
+16,"183rd St","Bronx",55
+36,"Burnside Ave","Bronx",55
+190,"Livonia Ave","Brooklyn",55
+198,"Myrtle Ave","Brooklyn",55
+229,"Sutter Ave","Brooklyn",55
+262,"148th St","Manhattan",54
+184,"Kingston-Throop Aves","Brooklyn",54
+27,"3rd Ave","Bronx",53
+160,"Franklin Ave","Brooklyn",53
+211,"Nostrand Ave","Brooklyn",53
+121,"Bedford Ave","Brooklyn",51
+159,"Franklin Ave","Brooklyn",51
+215,"Parkside Ave","Brooklyn",51
+217,"President St","Brooklyn",51
+156,"Flushing Ave","Brooklyn",50
+55,"Kingsbridge Rd","Bronx",50
+214,"Park Pl","Brooklyn",50
+236,"Van Siclen Ave","Brooklyn",50
+248,"116th St","Manhattan",49
+266,"155th St","Manhattan",49
+161,"Franklin Ave","Brooklyn",49
+66,"Prospect Ave","Bronx",49
+259,"145th St","Manhattan",48
+199,"Myrtle Ave","Brooklyn",47
+253,"125th St","Manhattan",46
+131,"Broadway Jct","Brooklyn",46
+165,"Gates St","Brooklyn",46
+183,"Kingston Ave","Brooklyn",46
+228,"Sterling St","Brooklyn",46
+52,"Intervale Ave","Bronx",45
+205,"New Lots Ave","Brooklyn",45
+239,"Winthrop St","Brooklyn",45
+242,"103rd St","Manhattan",44
+216,"Pennsylvania Ave","Brooklyn",44
+128,"Botanic Garden","Brooklyn",43
+138,"Church Ave","Brooklyn",43
+186,"Kosciusko St","Brooklyn",43
+33,"Brook Ave","Bronx",42
+133,"Bushwick Ave","Brooklyn",42
+48,"Freeman St","Bronx",42
+250,"116th St","Manhattan",40
+261,"145th St","Manhattan",40
+5,"149th St","Bronx",40
+6,"149th St","Bronx",40
+67,"Simpson St","Bronx",40
+268,"157th St","Manhattan",39
+4,"138th St","Bronx",38
+26,"3rd Ave","Bronx",38
+125,"Beverly Rd","Brooklyn",38
+139,"Church Ave","Brooklyn",38
+361,"Broadway Jct","Brooklyn",37
+208,"Newkirk Ave","Brooklyn",36
+247,"110th St","Manhattan",35
+18,"219th St","Bronx",35
+154,"Euclid Ave","Brooklyn",35
+157,"Flushing Ave","Brooklyn",35
+56,"Longwood Ave","Bronx",35
+204,"New Lots Ave","Brooklyn",35
+7,"161st St","Bronx",34
+269,"163rd St","Manhattan",34
+347,"Essex St","Manhattan",34
+51,"Hunts Point Ave","Bronx",34
+234,"Van Siclen Ave","Brooklyn",34
+71,"Whitlock Ave","Bronx",34
+226,"Shepherd Ave","Brooklyn",33
+103,"Atlantic Ave","Brooklyn",32
+141,"Classon Ave","Brooklyn",32
+246,"110th St","Manhattan",30
+132,"Broadway Jct","Brooklyn",30
+43,"E 180th St","Bronx",30
+350,"East Broadway","Manhattan",30
+53,"Jackson Ave","Bronx",30
+274,"181st St","Manhattan",29
+35,"Burke Ave","Bronx",29
+153,"Eastern Pky","Brooklyn",29
+358,"Grand St","Manhattan",29
+219,"Prospect Park","Brooklyn",29
+19,"225th St","Bronx",28
+30,"Bedford Park Blvd","Bronx",28
+124,"Beverly Rd","Brooklyn",28
+147,"Crescent St","Brooklyn",28
+169,"Grant Ave","Brooklyn",28
+50,"Gun Hill Rd","Bronx",28
+189,"Liberty Ave","Brooklyn",28
+272,"175th St","Manhattan",27
+273,"181st St","Manhattan",27
+135,"Central Ave","Brooklyn",27
+144,"Clinton Ave","Brooklyn",27
+44,"E Tremont Ave","Bronx",27
+428,"Far Rockaway","Queens",27
+270,"168th St","Manhattan",26
+271,"168th St","Manhattan",26
+264,"6th Ave","Manhattan",26
+38,"Cypress Ave","Bronx",26
+192,"Lorimer St","Brooklyn",26
+235,"Van Siclen Ave","Brooklyn",26
+255,"125th St","Manhattan",25
+258,"137th St","Manhattan",25
+142,"Cleveland St","Brooklyn",25
+143,"Clinton Ave","Brooklyn",25
+145,"Cortelyou Rd","Brooklyn",25
+42,"E 177th St","Bronx",25
+68,"St Lawrence Ave","Bronx",25
+12,"174th St","Bronx",24
+285,"23rd St","Manhattan",24
+298,"42nd St","Manhattan",24
+302,"50th St","Manhattan",24
+41,"E 149th St","Bronx",24
+197,"Myrtle Ave","Brooklyn",24
+209,"Norwood Ave","Brooklyn",24
+240,"Wyckoff Ave","Brooklyn",24
+21,"233rd St","Bronx",23
+286,"23rd St","Manhattan",23
+300,"49th St","Manhattan",23
+31,"Bedford Park Blvd","Bronx",23
+185,"Knickerbocker Ave","Brooklyn",23
+195,"Montrose Ave","Brooklyn",23
+203,"Nevins St","Brooklyn",23
+238,"Wilson Ave","Brooklyn",23
+287,"23rd St","Manhattan",22
+29,"Baychester Ave","Bronx",22
+150,"DeKalb Ave","Brooklyn",22
+348,"Dyckman St","Manhattan",22
+349,"Dyckman St","Manhattan",22
+59,"Sound View Ave","Bronx",22
+265,"14th St","Manhattan",21
+291,"2nd Ave","Manhattan",21
+301,"50th St","Manhattan",21
+101,"Alabama Ave","Brooklyn",21
+149,"DeKalb Ave","Brooklyn",21
+155,"Flatbush Ave","Brooklyn",21
+171,"Halsey St","Brooklyn",21
+196,"Morgan Ave","Brooklyn",21
+297,"42nd St","Manhattan",20
+330,"Bowery","Manhattan",20
+370,"Times Sq","Manhattan",20
+481,"Times Sq","Manhattan",20
+275,"18th St","Manhattan",19
+280,"207th St","Manhattan",19
+279,"207th St","Manhattan",19
+284,"23rd St","Manhattan",19
+148,"Cypress Hills","Brooklyn",19
+40,"E 143rd St","Bronx",19
+176,"Hoyt St","Brooklyn",19
+491,"Jamaica","Queens",19
+62,"Nereid Ave","Bronx",19
+449,"Sutphin Blvd","Queens",19
+277,"191st St","Manhattan",18
+323,"8th Ave","Manhattan",18
+325,"96th St","Manhattan",18
+28,"Allerton Ave","Bronx",18
+130,"Broadway","Brooklyn",18
+45,"Elder Ave","Bronx",18
+376,"103rd St","Queens",17
+384,"169th St","Queens",17
+17,"205th St","Bronx",17
+386,"21st St","Queens",17
+283,"23rd St","Manhattan",17
+290,"28th St","Manhattan",17
+83,"45th St","Brooklyn",17
+152,"E 105th St","Brooklyn",17
+427,"Elmhurst Ave","Queens",17
+49,"Gun Hill Rd","Bronx",17
+178,"Jefferson St","Brooklyn",17
+194,"Metropolitan Ave","Brooklyn",17
+289,"28th St","Manhattan",16
+102,"Atlantic Ave","Brooklyn",16
+104,"Atlantic Ave","Brooklyn",16
+419,"Beach 60th St","Queens",16
+37,"Castle Hill Ave","Bronx",16
+60,"Mosholu Pky","Bronx",16
+213,"Pacific St","Brooklyn",16
+441,"Parsons Blvd","Queens",16
+20,"231st St","Bronx",15
+318,"7th Ave","Manhattan",15
+409,"82nd St","Queens",15
+436,"Junction Blvd","Queens",15
+223,"Rockaway Pky","Brooklyn",15
+450,"Sutphin Blvd","Queens",15
+371,"Union Sq","Manhattan",15
+243,"103rd St","Manhattan",14
+282,"225th St","Manhattan",14
+299,"47th-50th Sts","Manhattan",14
+324,"8th St","Manhattan",14
+412,"90th St","Queens",14
+416,"Beach 25th St","Queens",14
+329,"Bleecker St","Manhattan",14
+338,"Canal St","Manhattan",14
+166,"Graham Ave","Brooklyn",14
+434,"Jamaica Center","Queens",14
+369,"Spring St","Manhattan",14
+244,"103rd St","Manhattan",13
+288,"28th St","Manhattan",13
+292,"33rd St","Manhattan",13
+294,"34th St","Manhattan",13
+296,"3rd Ave","Manhattan",13
+86,"53rd St","Brooklyn",13
+309,"5th Ave","Manhattan",13
+327,"96th St","Manhattan",13
+328,"Astor Pl","Manhattan",13
+336,"Canal St","Manhattan",13
+39,"Dyre Ave","Bronx",13
+173,"Hewes St","Brooklyn",13
+175,"Hoyt St","Brooklyn",13
+438,"Main St","Queens",13
+193,"Marcy Ave","Brooklyn",13
+447,"Seneca Ave","Queens",13
+251,"116th St","Manhattan",12
+263,"14th St","Manhattan",12
+276,"190th St","Manhattan",12
+23,"241st St","Bronx",12
+405,"74th St-Broadway","Queens",12
+122,"Bergen St","Brooklyn",12
+129,"Brighton Beach","Brooklyn",12
+333,"Broadway-Lafayette St","Manhattan",12
+341,"Cathedral Pky","Manhattan",12
+345,"Christopher St","Manhattan",12
+137,"Church Ave","Brooklyn",12
+168,"Grand St","Brooklyn",12
+187,"Lafayette Ave","Brooklyn",12
+191,"Lorimer St","Brooklyn",12
+293,"34th St","Manhattan",11
+295,"34th St","Manhattan",11
+82,"36th St","Brooklyn",11
+407,"75th St","Queens",11
+322,"86th St","Manhattan",11
+417,"Beach 36th St","Queens",11
+123,"Bergen St","Brooklyn",11
+164,"Fulton St","Brooklyn",11
+446,"Jackson Hts-Roosevelt Ave","Queens",11
+188,"Lawrence St","Brooklyn",11
+443,"Queensboro Plz","Queens",11
+435,"Van Wyck","Queens",11
+379,"111th St","Queens",10
+381,"111th St","Queens",10
+385,"179th St","Queens",10
+281,"215th St","Manhattan",10
+391,"36th Ave","Queens",10
+88,"59th St","Brooklyn",10
+97,"8th Ave","Brooklyn",10
+112,"Ave U","Brooklyn",10
+115,"Bay 50th St","Brooklyn",10
+32,"Bronx Park East","Bronx",10
+167,"Grand Army Plz","Brooklyn",10
+65,"Pelham Pky","Bronx",10
+25,"W 4th St","Manhattan",10
+372,"W 4th St","Manhattan",10
+72,"Woodlawn","Bronx",10
+382,"121st St","Queens",9
+278,"1st Ave","Manhattan",9
+403,"69th St","Queens",9
+95,"86th St","Brooklyn",9
+321,"86th St","Manhattan",9
+114,"Ave X","Brooklyn",9
+116,"Bay Pky","Brooklyn",9
+418,"Beach 44th St","Queens",9
+134,"Carroll St","Brooklyn",9
+343,"Chambers St","Manhattan",9
+479,"Coney Island","Brooklyn",9
+212,"Ocean Pkwy","Brooklyn",9
+378,"104th St","Queens",8
+84,"4th Ave","Brooklyn",8
+303,"51st St","Manhattan",8
+305,"57th St","Manhattan",8
+304,"57th St","Manhattan",8
+306,"59th St","Manhattan",8
+408,"80th St","Queens",8
+326,"96th St","Manhattan",8
+100,"9th St","Brooklyn",8
+107,"Ave J","Brooklyn",8
+420,"Beach 67th St","Queens",8
+424,"Broadway","Queens",8
+151,"Ditmas Ave","Brooklyn",8
+163,"Ft Hamilton Pky","Brooklyn",8
+357,"Grand Central","Manhattan",8
+359,"Houston St","Manhattan",8
+363,"Lexington Ave","Manhattan",8
+58,"Morris Park","Bronx",8
+207,"Newkirk Ave","Brooklyn",8
+365,"Prince St","Manhattan",8
+231,"Union St","Brooklyn",8
+455,"Woodhaven Blvd","Queens",8
+73,"Zerega Ave","Bronx",8
+79,"20th Ave","Brooklyn",7
+22,"238th St","Bronx",7
+388,"23rd St","Queens",7
+393,"39th Ave","Queens",7
+310,"5th Ave","Manhattan",7
+311,"5th Ave","Manhattan",7
+401,"65th St","Queens",7
+316,"77th St","Manhattan",7
+98,"95th St","Brooklyn",7
+105,"Ave H","Brooklyn",7
+111,"Ave U","Brooklyn",7
+113,"Ave U","Brooklyn",7
+339,"Canal St","Manhattan",7
+158,"Fort Hamilton Pky","Brooklyn",7
+162,"Ft Hamilton Pky","Brooklyn",7
+355,"Grand Central","Manhattan",7
+177,"Jay St","Brooklyn",7
+437,"Lefferts Blvd","Queens",7
+360,"Lexington Ave","Manhattan",7
+201,"Neck Rd","Brooklyn",7
+202,"Neptune Ave","Brooklyn",7
+218,"Prospect Ave","Brooklyn",7
+442,"Queens Plz","Queens",7
+367,"Roosevelt Island","Manhattan",7
+225,"Sheepshead Bay","Brooklyn",7
+368,"Spring St","Manhattan",7
+237,"W 8th St","Brooklyn",7
+374,"Wall St","Manhattan",7
+377,"104th St","Queens",6
+380,"111th St","Queens",6
+397,"46th St","Queens",6
+399,"61st St","Queens",6
+400,"63rd Dr","Queens",6
+90,"71st St","Brooklyn",6
+93,"7th Ave","Brooklyn",6
+410,"85th St","Queens",6
+96,"86th St","Brooklyn",6
+320,"86th St","Manhattan",6
+99,"9th Ave","Brooklyn",6
+414,"Astoria Blvd","Queens",6
+120,"Bedford Ave","Brooklyn",6
+332,"Broad St","Manhattan",6
+335,"Brooklyn Bridge","Manhattan",6
+460,"Clifton","Staten Island",6
+425,"Court Sq","Queens",6
+429,"Forest Ave","Queens",6
+354,"Fulton St","Manhattan",6
+431,"Grand Ave","Queens",6
+356,"Grand Central","Manhattan",6
+476,"Stapleton","Staten Island",6
+448,"Steinway St","Queens",6
+373,"Wall St","Manhattan",6
+75,"18th Ave","Brooklyn",5
+80,"25th Ave","Brooklyn",5
+389,"30th Ave","Queens",5
+394,"40th St","Queens",5
+395,"45th Rd","Queens",5
+396,"46th St","Queens",5
+398,"52nd St","Queens",5
+307,"59th St","Manhattan",5
+308,"59th St","Manhattan",5
+312,"66th St","Manhattan",5
+315,"72nd St","Manhattan",5
+317,"79th St","Manhattan",5
+94,"7th Ave","Brooklyn",5
+110,"Ave P","Brooklyn",5
+331,"Bowling Green","Manhattan",5
+337,"Canal St","Manhattan",5
+340,"Canal St","Manhattan",5
+353,"Fulton St","Manhattan",5
+181,"Kings Hwy","Brooklyn",5
+362,"Lexington Ave","Manhattan",5
+440,"Northern Blvd","Queens",5
+63,"Pelham Bay Park","Bronx",5
+2,"Rector St","Manhattan",5
+366,"Rector St","Manhattan",5
+227,"Smith St","Brooklyn",5
+477,"Tompkinsville","Staten Island",5
+74,"15th St","Brooklyn",4
+81,"25th St","Brooklyn",4
+390,"33rd St","Queens",4
+392,"36th St","Queens",4
+402,"67th Ave","Queens",4
+313,"68th St","Manhattan",4
+92,"79th St","Brooklyn",4
+426,"Astoria-Ditmars Blvd","Queens",4
+421,"Beach 90th St","Queens",4
+334,"Broadway-Nassau St","Manhattan",4
+34,"Buhre Ave","Bronx",4
+346,"City Hall","Manhattan",4
+352,"Fulton St","Manhattan",4
+467,"Jefferson Av","Staten Island",4
+182,"Kings Hwy","Brooklyn",4
+200,"Nassau Ave","Brooklyn",4
+364,"Park Pl","Manhattan",4
+452,"Van Wyck Blvd","Queens",4
+375,"Whitehall St","Manhattan",4
+456,"Woodhaven Blvd","Queens",4
+480,"World Trade Center","Manhattan",4
+76,"18th Ave","Brooklyn",3
+387,"21st St","Queens",3
+24,"242nd St","Bronx",3
+85,"50th St","Brooklyn",3
+319,"81st St","Manhattan",3
+413,"Aqueduct","Queens",3
+108,"Ave M","Brooklyn",3
+383,"Cortlandt St","Manhattan",3
+1,"Cortlandt St","Manhattan",3
+170,"Greenpoint Ave","Brooklyn",3
+174,"High St","Brooklyn",3
+64,"Pelham Pky","Bronx",3
+444,"Rockaway Blvd","Queens",3
+3,"South Ferry","Manhattan",3
+70,"Westchester Sq","Bronx",3
+241,"York St","Brooklyn",3
+77,"18th Ave","Brooklyn",2
+78,"20th Ave","Brooklyn",2
+87,"55th St","Brooklyn",2
+89,"62nd St","Brooklyn",2
+404,"71st Ave","Queens",2
+406,"75th Ave","Queens",2
+91,"77th St","Brooklyn",2
+117,"Bay Pky","Brooklyn",2
+119,"Bay Ridge Ave","Brooklyn",2
+415,"Beach 105th St","Queens",2
+422,"Beach 98th St","Queens",2
+127,"Borough Hall","Brooklyn",2
+126,"Borough Hall","Brooklyn",2
+342,"Chambers St","Manhattan",2
+146,"Court St","Brooklyn",2
+461,"Dongan Hills","Staten Island",2
+351,"Franklin St","Manhattan",2
+430,"Fresh Pond Rd","Queens",2
+463,"Grant City","Staten Island",2
+464,"Grasmere","Staten Island",2
+490,"Howard Beach","Queens",2
+489,"Long Term Parking","Queens",2
+57,"Middletown Rd","Bronx",2
+206,"New Utrecht Ave","Brooklyn",2
+475,"St George","Staten Island",2
+314,"72nd St","Manhattan",1
+411,"88th St","Queens",1
+457,"Annadale","Staten Island",1
+458,"Atlantic","Staten Island",1
+106,"Ave I","Brooklyn",1
+109,"Ave N","Brooklyn",1
+423,"Broad Channel","Queens",1
+344,"Chambers St","Manhattan",1
+140,"Clark St","Brooklyn",1
+432,"Howard Beach","Queens",1
+433,"Hunters Point Ave","Queens",1
+180,"Kings Hwy","Brooklyn",1
+439,"Metropolitan Ave","Queens",1
+468,"Nassau","Staten Island",1
+469,"New Dorp","Staten Island",1
+470,"Oakwood Heights","Staten Island",1
+471,"Old Town","Staten Island",1
+472,"Pleasant Plains","Staten Island",1
+445,"Rockaway Park","Queens",1
+478,"Tottenville","Staten Island",1
+451,"Union Tpke","Queens",1
+118,"Bay Pky","Brooklyn",0
+459,"Bay Terrace","Staten Island",0
+462,"Eltingville","Staten Island",0
+488,"Federal Circle","Queens",0
+465,"Great Kills","Staten Island",0
+466,"Huguenot","Staten Island",0
+482,"JFK Terminal 1","Queens",0
+483,"JFK Terminal 2-3","Queens",0
+484,"JFK Terminal 4","Queens",0
+485,"JFK Terminal 5-6","Queens",0
+486,"JFK Terminal 7","Queens",0
+487,"JFK Terminal 8","Queens",0
+473,"Prince's Bay","Staten Island",0
+474,"Richmond Valley","Staten Island",0
+453,"Vernon Blvd","Queens",0
+454,"Willets Point Blvd","Queens",0

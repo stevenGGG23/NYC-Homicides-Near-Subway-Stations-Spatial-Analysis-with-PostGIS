@@ -1,0 +1,196 @@
+"borough","station_name","homicide_count","borough_avg"
+"Bronx","182nd St",76,32.67
+"Bronx","Mt Eden Ave",74,32.67
+"Bronx","167th St",71,32.67
+"Bronx","170th St",71,32.67
+"Bronx","170th St",70,32.67
+"Bronx","Fordham Rd",70,32.67
+"Bronx","Fordham Rd",69,32.67
+"Bronx","Tremont Ave",69,32.67
+"Bronx","167th St",68,32.67
+"Bronx","174th St",68,32.67
+"Bronx","176th St",64,32.67
+"Bronx","Kingsbridge Rd",58,32.67
+"Bronx","183rd St",55,32.67
+"Bronx","Burnside Ave",55,32.67
+"Bronx","3rd Ave",53,32.67
+"Bronx","Kingsbridge Rd",50,32.67
+"Bronx","Prospect Ave",49,32.67
+"Bronx","Intervale Ave",45,32.67
+"Bronx","Brook Ave",42,32.67
+"Bronx","Freeman St",42,32.67
+"Bronx","149th St",40,32.67
+"Bronx","149th St",40,32.67
+"Bronx","Simpson St",40,32.67
+"Bronx","138th St",38,32.67
+"Bronx","3rd Ave",38,32.67
+"Bronx","219th St",35,32.67
+"Bronx","Longwood Ave",35,32.67
+"Bronx","161st St",34,32.67
+"Bronx","Hunts Point Ave",34,32.67
+"Bronx","Whitlock Ave",34,32.67
+"Brooklyn","Sutter Ave",80,22.25
+"Brooklyn","Rockaway Ave",75,22.25
+"Brooklyn","Saratoga Ave",69,22.25
+"Brooklyn","Ralph Ave",67,22.25
+"Brooklyn","Nostrand Ave",65,22.25
+"Brooklyn","Halsey St",64,22.25
+"Brooklyn","Utica Ave",64,22.25
+"Brooklyn","Chauncey St",59,22.25
+"Brooklyn","Junius St",58,22.25
+"Brooklyn","Rockaway Ave",58,22.25
+"Brooklyn","Utica Ave",58,22.25
+"Brooklyn","Livonia Ave",55,22.25
+"Brooklyn","Myrtle Ave",55,22.25
+"Brooklyn","Sutter Ave",55,22.25
+"Brooklyn","Kingston-Throop Aves",54,22.25
+"Brooklyn","Franklin Ave",53,22.25
+"Brooklyn","Nostrand Ave",53,22.25
+"Brooklyn","Bedford Ave",51,22.25
+"Brooklyn","Franklin Ave",51,22.25
+"Brooklyn","Parkside Ave",51,22.25
+"Brooklyn","President St",51,22.25
+"Brooklyn","Flushing Ave",50,22.25
+"Brooklyn","Park Pl",50,22.25
+"Brooklyn","Van Siclen Ave",50,22.25
+"Brooklyn","Franklin Ave",49,22.25
+"Brooklyn","Myrtle Ave",47,22.25
+"Brooklyn","Broadway Jct",46,22.25
+"Brooklyn","Gates St",46,22.25
+"Brooklyn","Kingston Ave",46,22.25
+"Brooklyn","Sterling St",46,22.25
+"Brooklyn","New Lots Ave",45,22.25
+"Brooklyn","Winthrop St",45,22.25
+"Brooklyn","Pennsylvania Ave",44,22.25
+"Brooklyn","Botanic Garden",43,22.25
+"Brooklyn","Church Ave",43,22.25
+"Brooklyn","Kosciusko St",43,22.25
+"Brooklyn","Bushwick Ave",42,22.25
+"Brooklyn","Beverly Rd",38,22.25
+"Brooklyn","Church Ave",38,22.25
+"Brooklyn","Broadway Jct",37,22.25
+"Brooklyn","Newkirk Ave",36,22.25
+"Brooklyn","Euclid Ave",35,22.25
+"Brooklyn","Flushing Ave",35,22.25
+"Brooklyn","New Lots Ave",35,22.25
+"Brooklyn","Van Siclen Ave",34,22.25
+"Brooklyn","Shepherd Ave",33,22.25
+"Brooklyn","Atlantic Ave",32,22.25
+"Brooklyn","Classon Ave",32,22.25
+"Brooklyn","Broadway Jct",30,22.25
+"Brooklyn","Eastern Pky",29,22.25
+"Brooklyn","Prospect Park",29,22.25
+"Brooklyn","Beverly Rd",28,22.25
+"Brooklyn","Crescent St",28,22.25
+"Brooklyn","Grant Ave",28,22.25
+"Brooklyn","Liberty Ave",28,22.25
+"Brooklyn","Central Ave",27,22.25
+"Brooklyn","Clinton Ave",27,22.25
+"Brooklyn","Lorimer St",26,22.25
+"Brooklyn","Van Siclen Ave",26,22.25
+"Brooklyn","Cleveland St",25,22.25
+"Brooklyn","Clinton Ave",25,22.25
+"Brooklyn","Cortelyou Rd",25,22.25
+"Brooklyn","Myrtle Ave",24,22.25
+"Brooklyn","Norwood Ave",24,22.25
+"Brooklyn","Wyckoff Ave",24,22.25
+"Brooklyn","Knickerbocker Ave",23,22.25
+"Brooklyn","Montrose Ave",23,22.25
+"Brooklyn","Nevins St",23,22.25
+"Brooklyn","Wilson Ave",23,22.25
+"Manhattan","145th St",76,17.87
+"Manhattan","135th St",70,17.87
+"Manhattan","125th St",67,17.87
+"Manhattan","135th St",60,17.87
+"Manhattan","155th St",59,17.87
+"Manhattan","116th St",57,17.87
+"Manhattan","110th St",55,17.87
+"Manhattan","125th St",55,17.87
+"Manhattan","148th St",54,17.87
+"Manhattan","116th St",49,17.87
+"Manhattan","155th St",49,17.87
+"Manhattan","145th St",48,17.87
+"Manhattan","125th St",46,17.87
+"Manhattan","103rd St",44,17.87
+"Manhattan","116th St",40,17.87
+"Manhattan","145th St",40,17.87
+"Manhattan","157th St",39,17.87
+"Manhattan","110th St",35,17.87
+"Manhattan","163rd St",34,17.87
+"Manhattan","Essex St",34,17.87
+"Manhattan","110th St",30,17.87
+"Manhattan","East Broadway",30,17.87
+"Manhattan","181st St",29,17.87
+"Manhattan","Grand St",29,17.87
+"Manhattan","175th St",27,17.87
+"Manhattan","181st St",27,17.87
+"Manhattan","168th St",26,17.87
+"Manhattan","168th St",26,17.87
+"Manhattan","6th Ave",26,17.87
+"Manhattan","125th St",25,17.87
+"Manhattan","137th St",25,17.87
+"Manhattan","23rd St",24,17.87
+"Manhattan","42nd St",24,17.87
+"Manhattan","50th St",24,17.87
+"Manhattan","23rd St",23,17.87
+"Manhattan","49th St",23,17.87
+"Manhattan","23rd St",22,17.87
+"Manhattan","Dyckman St",22,17.87
+"Manhattan","Dyckman St",22,17.87
+"Manhattan","14th St",21,17.87
+"Manhattan","2nd Ave",21,17.87
+"Manhattan","50th St",21,17.87
+"Manhattan","42nd St",20,17.87
+"Manhattan","Bowery",20,17.87
+"Manhattan","Times Sq",20,17.87
+"Manhattan","Times Sq",20,17.87
+"Manhattan","18th St",19,17.87
+"Manhattan","207th St",19,17.87
+"Manhattan","207th St",19,17.87
+"Manhattan","23rd St",19,17.87
+"Manhattan","191st St",18,17.87
+"Manhattan","8th Ave",18,17.87
+"Manhattan","96th St",18,17.87
+"Queens","Far Rockaway",27,7.12
+"Queens","Jamaica",19,7.12
+"Queens","Sutphin Blvd",19,7.12
+"Queens","103rd St",17,7.12
+"Queens","169th St",17,7.12
+"Queens","21st St",17,7.12
+"Queens","Elmhurst Ave",17,7.12
+"Queens","Beach 60th St",16,7.12
+"Queens","Parsons Blvd",16,7.12
+"Queens","82nd St",15,7.12
+"Queens","Junction Blvd",15,7.12
+"Queens","Sutphin Blvd",15,7.12
+"Queens","90th St",14,7.12
+"Queens","Beach 25th St",14,7.12
+"Queens","Jamaica Center",14,7.12
+"Queens","Main St",13,7.12
+"Queens","Seneca Ave",13,7.12
+"Queens","74th St-Broadway",12,7.12
+"Queens","75th St",11,7.12
+"Queens","Beach 36th St",11,7.12
+"Queens","Jackson Hts-Roosevelt Ave",11,7.12
+"Queens","Queensboro Plz",11,7.12
+"Queens","Van Wyck",11,7.12
+"Queens","111th St",10,7.12
+"Queens","111th St",10,7.12
+"Queens","179th St",10,7.12
+"Queens","36th Ave",10,7.12
+"Queens","121st St",9,7.12
+"Queens","69th St",9,7.12
+"Queens","Beach 44th St",9,7.12
+"Queens","104th St",8,7.12
+"Queens","80th St",8,7.12
+"Queens","Beach 67th St",8,7.12
+"Queens","Broadway",8,7.12
+"Queens","Woodhaven Blvd",8,7.12
+"Staten Island","Clifton",6,1.68
+"Staten Island","Stapleton",6,1.68
+"Staten Island","Tompkinsville",5,1.68
+"Staten Island","Jefferson Av",4,1.68
+"Staten Island","Dongan Hills",2,1.68
+"Staten Island","Grant City",2,1.68
+"Staten Island","Grasmere",2,1.68
+"Staten Island","St George",2,1.68
