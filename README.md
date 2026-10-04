@@ -1,6 +1,9 @@
 # NYC Homicides Near Subway Stations: Spatial Analysis with PostGIS
 
-Which New York City subway stations have the most homicides nearby? This project uses PostgreSQL and PostGIS to count homicides within 2,500 feet of every subway station, then finds the stations that are above average for their borough.
+Which New York City subway stations have the most homicides nearby? This project uses PostgreSQL and PostGIS to count homicides within 2,500 feet of every subway station, then finds the stations that are above average for their borough. 
+
+<img width="2400" height="1275" alt="image" src="https://github.com/user-attachments/assets/e2942205-b3a4-48cf-a5bd-6fcb79120335" />
+
 
 ## Key results
 
